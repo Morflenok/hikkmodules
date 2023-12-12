@@ -17,7 +17,7 @@ from hikkatl.tl.types import Message
 from .. import loader, utils
 
 @loader.tds
-class GitHubMod(loader.Module):
+class MorGitHubMod(loader.Module):
     """Модуль для просмотра профиля GitHub, для просмотра информации репозиториев."""
 
     strings_ru = {
