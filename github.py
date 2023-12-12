@@ -21,7 +21,7 @@ class GitHubMod(loader.Module):
     """Модуль для просмотра профиля GitHub, для просмотра информации репозиториев."""
 
     strings_ru = {
-        "name": "Github",
+        "name": "MorGithub",
         "profile_info": "<b>Информация профиля: </b>",
         "repo_info": "<b>Информация репозитория: </b>",
         "invalid_link": (
